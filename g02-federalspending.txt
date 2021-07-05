@@ -1,4 +1,4 @@
-As a Data user, I want to have the 12-19-2017 deletions processed.
+As a Data user, I want to have the  deletions processed.
 As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
 As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
 As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
